@@ -1,0 +1,8 @@
+.vs
+Debug
+images
+x64
+
+ComputerVision.VC.db
+ComputerVision.VC.VC.opendb
+*.props
